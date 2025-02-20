@@ -36,9 +36,10 @@ This project analyzes sales data from **2015 to 2017**, providing insights into 
 - **Excel** (Data Cleaning & visualization)
 - 
 
+{Here is the link to view the dashboard] https://docs.google.com/spreadsheets/d/1SSC-5FMtb1OEpNJE4-cZFsyrSMb0b8Ub/edit?usp=drive_link&ouid=115401196830326968586&rtpof=true&sd=true
+
 ## 🤝 Connect With Me
 If you have any feedback or suggestions, feel free to reach out!  
  | 📧 [Email](maryamabdulrasaq2002@gmail.com)
 
 ---
-📌 **If you found this project helpful, don't forget to ⭐ the repository!** 🚀
